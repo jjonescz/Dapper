@@ -1,6 +1,6 @@
 Dapper - a simple object mapper for .Net
 ========================================
-[![Build status](https://ci.appveyor.com/api/projects/status/8rbgoxqio76ynj4h?svg=true)](https://ci.appveyor.com/project/StackExchange/dapper)
+[![Build status](https://ci.appveyor.com/api/projects/status/e320b9f065txqsd1?svg=true)](https://ci.appveyor.com/project/jjones/dapper)
 
 Release Notes
 -------------
@@ -8,6 +8,8 @@ Located at [stackexchange.github.io/Dapper](https://stackexchange.github.io/Dapp
 
 Packages
 --------
+
+Fork CI feed: https://ci.appveyor.com/nuget/dapper-jjones
 
 MyGet Pre-release feed: https://www.myget.org/gallery/dapper
 
